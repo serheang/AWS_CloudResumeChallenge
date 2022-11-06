@@ -1,6 +1,6 @@
-# Welcome to Ser Heang TAN Resume site  
+# Welcome to my (under construction) site  
 
-## Ser Heang TAN  
+## Construction timeline
 **20221027**  
 I am just a simple IT guy who try to complete the [Forrest Brazeal Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/).  Here will be empty for now.   
 
