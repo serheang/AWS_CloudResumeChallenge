@@ -10,3 +10,10 @@ Here is [my gitrepo](https://github.com/serheang/AWS_CloudResumeChallenge) which
 **20221106**  
 I am keeping this static page in my [gitrepo](https://github.com/serheang/AWS_CloudResumeChallenge) too.  
 This static HTML page is first written in markdown (md), which I am grateful to learn from Matt Cone through his [Markdown Guide](https://www.markdownguide.org/).  
+
+**20221109**  
+Trying to figure out how to put in Javascript visitor counter onto this md/html.  
+
+**20221203**
+Registered my domain name using AWS Route53, and updated AWS CloudFront distribution to use my domain as custom domain name.
+---
