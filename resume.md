@@ -2,7 +2,7 @@ Navigation: [HOME](https://resume.serheang.com/)
 
 # Ser Heang TAN
 
-An enthusist Linux Engineer + Administrator + ~~Dev~~Ops who trying to learn about cloud while working to make ING a better, secure and right bank for you and me.
+An enthusist Linux Engineer + Administrator + ~~Dev~~Ops (wannabe) who trying to learn about cloud while working to make ING a better, secure and right bank for you and me.
 
 ## Profile  
 ## Key Strengths  
