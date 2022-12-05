@@ -35,3 +35,9 @@ Created 2 markdown file:
     1. index.html - journal of my cloud resume progress
     2. resume.html - my cloud resume page
 
+
+## Challenges  
+1. Need to create javascript for counter 
+2. Need to change the custom URL for Cloudfront Distribution  
+    - Need to create customize SSL with ACM
+    - updated the SSL to have both: www.serheang.com and resume.serheang.com
