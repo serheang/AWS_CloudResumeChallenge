@@ -17,6 +17,10 @@ pandoc index.md -f markdown -t html -s -o index.html --metadata title="Ser Heang
 > -o --> Output filename 
 > --metadata title="" --> apply the "title" as metadata to the html page  
 
+Created 2 markdown file:
+1. index.md
+2. resume.md
+
 ## Steps to build my resume on AWS
 1. Create AWS Free tier account
    1. Secure AWS Root account
@@ -27,5 +31,7 @@ pandoc index.md -f markdown -t html -s -o index.html --metadata title="Ser Heang
 3. Create AWS CloudFront distribution  
 4. Register domain with AWS Route 53  
 5. Update AWS CloudFront distribution to use my domain (created in above step)  
-
+6. Create 2 html pages:  
+    1. index.html - journal of my cloud resume progress
+    2. resume.html - my cloud resume page
 

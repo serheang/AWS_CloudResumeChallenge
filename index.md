@@ -14,6 +14,16 @@ This static HTML page is first written in markdown (md), which I am grateful to 
 **20221109**  
 Trying to figure out how to put in Javascript visitor counter onto this md/html.  
 
-**20221203**
-Registered my domain name using AWS Route53, and updated AWS CloudFront distribution to use my domain as custom domain name.
+**20221203**  
+Registered my domain name using AWS Route53, and updated AWS CloudFront distribution to use my domain as custom domain name.  
+
+**20221205**  
+Created a new page for my [cloud resume (WIP)](https://www.serheang.com/resume.html).
+
+---
+
+## My cloud resume (WIP)  
+
+This is my [WIP cloud resume](https://www.serheang.com/resume.html).
+
 ---
