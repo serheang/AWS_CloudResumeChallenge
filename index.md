@@ -1,4 +1,6 @@
-# Welcome to my (under construction) site  
+---
+title: Welcome to my (under construction) site  
+---
 
 ## Construction timeline
 **20221027**  
@@ -24,6 +26,19 @@ Created a new page for my [cloud resume (WIP)](https://www.serheang.com/resume.h
 
 ## My cloud resume (WIP)  
 
-This is my [WIP cloud resume](https://www.serheang.com/resume.html).
+Hi, I am Ser Heang, an enthusist Linux Engineer + Administrator + ~~Dev~~Ops (wannabe) who trying to learn about cloud while working to makING a better, secure and right IT for you and me.
+
+## Profile  
+## Key Strengths  
+## Accomplishments
+## Work Experience  
+## Skills  
+## Learnings  
+
+---  
+
+| Email | Contact | Wordpress Blog | GitHub | LinkedIn |
+|:---|:---|:---|:---|:---|
+|**<serheang@gmail.com>** | **+61 xxx xxx xxx** | **[SerHeang](https://serheang.wordpress.com)** | **[GitHub](https://github.com/serheang)** | **[LinkedIn](https://linkedin.com/in/serheang)** |
 
 ---
