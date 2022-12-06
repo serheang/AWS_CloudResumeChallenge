@@ -39,5 +39,9 @@ Created 2 markdown file:
 ## Challenges  
 1. Need to create javascript for counter 
 2. Need to change the custom URL for Cloudfront Distribution  
-    - Need to create customize SSL with ACM
-    - updated the SSL to have both: www.serheang.com and resume.serheang.com
+    - Need to create customize SSL with ACM  
+    - updated the SSL to have both: www.serheang.com and resume.serheang.com  
+3. How to ensure newly uploaded static html is being served immediately for verification  
+    - Invalidate the AWS Cloudfront: `aws cloudfront create-invalidation --distribution-id <cloudfront distribution id> --paths "/*"`  
+4. Need to find a proper CSS style guide for my pandoc-markdown conversion.
+    > Will need to adapt a few of the css style that I found (which I had checked into here)
