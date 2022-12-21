@@ -45,3 +45,4 @@ Created 2 markdown file:
     - Invalidate the AWS Cloudfront: `aws cloudfront create-invalidation --distribution-id <cloudfront distribution id> --paths "/*"`  
 4. Need to find a proper CSS style guide for my pandoc-markdown conversion.
     > Will need to adapt a few of the css style that I found (which I had checked into here)
+5. Time to do the work and study about JS/python
